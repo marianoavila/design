@@ -18,6 +18,16 @@ p {
   letter-spacing: 0.03em;
 }
 
+.tagline {
+  color: #4E4E4E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.7em;
+  text-align: center;
+  margin-top: 4em;
+  line-height: 2;
+  letter-spacing: 0.03em;
+}
+
 .subtle {
   color: #4E4E4E;
   font-family: 'Montserrat', sans-serif;
@@ -60,7 +70,7 @@ padding: 20px;
   margin: 0em;
   padding: 0em;
   position: relative;
-  top: 6em;
+  top: 4em;
   height: auto;
   max-width: auto;
   overflow-y: hidden;
