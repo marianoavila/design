@@ -26,6 +26,7 @@ p {
   margin-top: 4em;
   line-height: 2;
   letter-spacing: 0.03em;
+  margin-top: 8em;
 }
 
 .subtle {
@@ -70,7 +71,7 @@ padding: 20px;
   margin: 0em;
   padding: 0em;
   position: relative;
-  top: 4em;
+  top: 1em;
   height: auto;
   max-width: auto;
   overflow-y: hidden;
