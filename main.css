@@ -79,25 +79,6 @@ padding: 20px;
   text-align: center;
 }
 
-/* ----------- iPhone 6+, 7+ and 8+ ----------- */
-
-/* Portrait and Landscape */
-@media only screen
-  and (min-device-width: 414px)
-  and (max-device-width: 736px)
-  and (-webkit-min-device-pixel-ratio: 3) {
-
-    h1 {
-      color: #3C79F9;
-      font-family: 'Montserrat', sans-serif;
-      font-size: 4em;
-      text-align: center;
-      font-weight: bold;
-      margin-top: 4em;
-      letter-spacing: 0.03em;
-    }
-}
-
 body {
   background-color: #FFFFFF
 }
